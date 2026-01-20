@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 30 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa HeyGen para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi usado o ChatGPT para criar e revisar o roteiro do vídeo, garantindo clareza e objetividade na mensagem. O HeyGen foi utilizado para gerar o vídeo com avatar virtual e voz sintetizada, trazendo uma apresentação moderna e interativa
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Permitiu a criação de um conteúdo educativo de forma ágil, acessível e alinhada às novas tecnologias de Inteligência Artificial.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+https://www.youtube.com/shorts/DZsrMivBlP
+
 ```
 
 ### Exemplos e Insigths
