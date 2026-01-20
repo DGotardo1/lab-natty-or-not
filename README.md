@@ -35,7 +35,7 @@ Foi usado o ChatGPT para criar e revisar o roteiro do vídeo, garantindo clareza
 ## 🚀 Resultados
 Permitiu a criação de um conteúdo educativo de forma ágil, acessível e alinhada às novas tecnologias de Inteligência Artificial.
 
-https://www.youtube.com/shorts/DZsrMivBlP
+https://www.youtube.com/shorts/DZsrMivBlP0
 
 ```
 
